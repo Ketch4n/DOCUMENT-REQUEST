@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878261878380",
+    "project_id": "docurequest-ustp",
+    "storage_bucket": "docurequest-ustp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878261878380:android:3a5e019588eeeee3d3e249",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878261878380-cb1070con24ebt49tfb6fgnev2u4bj85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFkpEok_1mg3MK6rRKJVRcHFT1rQfWAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878261878380-cb1070con24ebt49tfb6fgnev2u4bj85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
